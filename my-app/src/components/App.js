@@ -8,21 +8,9 @@ function App() {
 
     <div>
       <ImageComponent />
-      <div>
-        <VideoComponent />
-
-      </div>
-      <div>
-        <ParagraphsComponent />
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic, eligendi.</p>
-        <ParagraphsComponent />
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic, eligendi.</p>
-        <ParagraphsComponent />
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic, eligendi.</p>
-      </div>
-     <div>
-        <ListsComponent />
-     </div>
+       <VideoComponent />
+       <ParagraphsComponent />
+       <ListsComponent />
     </div>
   );
 }
